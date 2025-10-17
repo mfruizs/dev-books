@@ -19,6 +19,6 @@ Source: [Mediavida](https://www.mediavida.com/foro/dev/plataforma-desarrolladore
 
 De hecho creo que la colección for professionals es bastante interesante para aprender: Java Notes for Professionals Se puede leer junto a Modern Java.
 
-En lo personal sobre esta saga, recuerdo que tenia descargados siempre el de Git, SQL, Python, Javascript y quizás alguno más en mi primer trabajo... Y cuando por ejemplo tenía que hacer algo con no sé ArrayList<T> y stream, miraba los libros para ver si había alguna buena practica o un método mejor. O tenía que hacer algo en Python o Javascript que no sabía, miraba la guía para encontrar las librerías.
+En lo personal sobre esta saga, recuerdo que tenía descargados siempre el de Git, SQL, Python, Javascript y quizás alguno más en mi primer trabajo... Y cuando por ejemplo tenía que hacer algo con no sé ArrayList<T> y stream, miraba los libros para ver si había alguna buena practica o un método mejor. O tenía que hacer algo en Python o Javascript que no sabía, miraba la guía para encontrar las librerías.
 
 Aunque recalco que fue el Modern Java in Action el que más me ayudó al empezar. La gente en esa época aún no usaba streams para cosas básicas y abusaban de jerarquías de clase. Yo pillé el libro, empecé a hacer interfaces, lambdas, streams... Y me ayudó mucho mucho.
