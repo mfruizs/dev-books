@@ -1,0 +1,111 @@
+# ==========================================================
+# NOTE:
+# Typical .gitignore for Java projects developed with IntelliJ IDEA.
+# It excludes IDE configuration, build artifacts, temporary files,
+# logs, and local environment settings.
+# ==========================================================
+
+# ==========================================================
+# General
+# ==========================================================
+.DS_Store
+Thumbs.db
+*.log
+logs/
+*.out
+*.tmp
+*.swp
+*.swo
+*~
+
+# ==========================================================
+# IntelliJ IDEA
+# ==========================================================
+.idea/
+*.iml
+out/
+.idea_modules/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/libraries
+.idea/**/gradle.xml
+.idea/**/gradle_settings.xml
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/misc.xml
+.idea/**/sonarlint/
+.idea/**/caches/
+.idea/**/index/
+.idea/**/httpRequests/
+.idea/**/codeStyles/
+.idea/**/markdown-navigator/
+.idea/**/markdown-navigator.xml
+.idea/**/markdown-navigator-enh.xml
+.idea/**/shelf/
+
+# ==========================================================
+# Java / Build Output
+# ==========================================================
+target/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# ==========================================================
+# Maven
+# ==========================================================
+.mvn/timing.properties
+.settings/
+dependency-reduced-pom.xml
+
+# ==========================================================
+# Gradle
+# ==========================================================
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+
+# ==========================================================
+# VSCode (optional)
+# ==========================================================
+.vscode/
+
+# ==========================================================
+# Version Control System
+# ==========================================================
+*.orig
+*.rej
+*.bak
+
+# ==========================================================
+# Environment / Credentials
+# ==========================================================
+.env
+.env.*
+application-local.yml
+application-local.properties
+*.keystore
+*.p12
+*.pem
+
+# ==========================================================
+# Test Reports
+# ==========================================================
+test-output/
+surefire-reports/
+jacoco.exec
+coverage/
